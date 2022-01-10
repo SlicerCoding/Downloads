@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"window.title": "SlicerCoding.com",
+		"window.titleSeparator": "SlicerCoding.Com",
+		"terminal.integrated.tabs.title": "SlicerCoding.com"
+	}
+}
